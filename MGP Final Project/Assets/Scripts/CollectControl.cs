@@ -11,15 +11,12 @@ public class CollectControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Count collected stars
         starCountDisplay.GetComponent<Text>().text = "" + starCount;
-
-
-
+        // If game resets Star count is 0
         if (Time.timeScale == 0)
         {
             starCount = 0;
         }
     }
-
-    
 }
