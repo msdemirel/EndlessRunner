@@ -10,4 +10,4 @@ While I wasn't able to publish this game commercially, the journey of creating "
 By exploring Unity's Android features, I have deepened my understanding of mobile game development principles, including performance optimization, touch controls, and device compatibility. These skills will undoubtedly pave the way for future projects, as I continue to grow as a game developer.
 
 
-![Alt text](MGPFinalProject/1667412798242.jpg "Optional title")
+![Alt text](MGP Final Project/1667412798242.jpg "Optional title")
