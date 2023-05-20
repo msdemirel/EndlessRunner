@@ -8,4 +8,6 @@ Throughout the development process, I dedicated myself to mastering the intricac
 While I wasn't able to publish this game commercially, the journey of creating "EndlessRunner" has been a tremendous learning opportunity. From understanding the fundamentals of mobile game development to tackling technical challenges and refining my problem-solving abilities, I have gained invaluable insights and expertise.
 
 By exploring Unity's Android features, I have deepened my understanding of mobile game development principles, including performance optimization, touch controls, and device compatibility. These skills will undoubtedly pave the way for future projects, as I continue to grow as a game developer.
-![Alt text](/posts/path/to/img.jpg "Optional title")
+
+
+![Alt text](/posts/MGP Final Project/1667412798242.jpeg "Optional title")
